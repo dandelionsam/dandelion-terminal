@@ -1,15 +1,22 @@
 # Dandelion theme for terminal.app
 
-## Description
+## 💬 Description
 
 A simple pastel theme for terminal app on Mac.
 
-## Features
+## 💫 Features
 
 - Beautiful pastel colors
 - Light/Dark theme support
 
-## Usage
+## 🌼 Hints
+
+You can obtain the best results using this theme with:
+
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+- zsh themes like powerlevel10k
+
+## 🔧 Usage
 
 1. Download this repo.
 2. Open up Terminal, go to **Preferences**, then **Profiles**.
